@@ -1,0 +1,6 @@
+c:\users\andrew\documents\visual studio 2015\Projects\TravelingSalesman\TravelingSalesman\bin\Debug\TravelingSalesman.exe.config
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\TravelingSalesman\TravelingSalesman\bin\Debug\TravelingSalesman.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\TravelingSalesman\TravelingSalesman\bin\Debug\TravelingSalesman.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.exe
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\TravelingSalesman\TravelingSalesman\obj\Debug\TravelingSalesman.pdb
